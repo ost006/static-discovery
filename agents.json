@@ -2,11 +2,17 @@
   {
     "name": "Artisan",
     "description": "Specialized AI assistant for generating comprehensive game assets including 2D/3D visuals, audio, video, and interactive content",
-    "url": "https://agent8-artisan.fly.dev/asset-creator"
+    "url": "https://agent8-artisan.fly.dev/asset-creator",
+    "slack": {
+      "id": "U098SLVBJMQ"
+    }
   },
   {
     "name": "PM Assistant",
     "description": "Professional project management and GitHub-based progress tracking specialist",
-    "url": "https://planetarium-pm-agent.fly.dev"
+    "url": "https://planetarium-pm-agent.fly.dev",
+    "slack": {
+      "id": "U093U51KMFU"
+    }
   }
 ]
