@@ -18,5 +18,15 @@
         "appId": "U093U51KMFU"
       }
     }
+  },
+  {
+    "name": "Fact Agent",
+    "description": "A fact-finding agent that leverages Google search to provide curated, interesting information and trivia on diverse subjects",
+    "url": "https://agentify2-factchecker-proxy.fly.dev",
+    "proxy": {
+      "slack": {
+        "appId": "U09BPK02UJG"
+      }
+    }
   }
 ]
